@@ -1,0 +1,11 @@
+.discount__button {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(0, 0, 0, 1);
+  background-color: rgba(252, 181, 0, 1);
+  border-radius: 7px;
+  padding: 16px 54px;
+}

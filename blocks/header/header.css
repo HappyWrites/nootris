@@ -1,0 +1,11 @@
+.header {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (min-width: 820px) {
+  .header {
+    padding: 23px 64px;
+  }
+}

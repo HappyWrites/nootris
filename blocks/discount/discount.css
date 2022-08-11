@@ -1,0 +1,19 @@
+.discount {
+  display: flex;
+  flex-direction: column;
+  padding: 50px 20px 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 820px) {
+  .discount {
+    padding: 112px 64px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .discount {
+    padding: 112px 177px;
+  }
+}

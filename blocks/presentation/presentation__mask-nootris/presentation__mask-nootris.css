@@ -1,0 +1,25 @@
+.presentation__mask-nootris {
+  z-index: 2;
+  width: 156px;
+  height: 445px;
+  position: absolute;
+  bottom: 45px;
+  right: 71px;
+}
+
+
+@media screen and (min-width: 900px) {
+  .presentation__mask-nootris {
+    bottom: 0;
+    top: 58px;
+    width: 224px;
+    height: 635px;
+  }
+}
+
+
+@media screen and (min-width: 1410px) {
+  .presentation__mask-nootris {
+    right: 160px;
+  }
+}

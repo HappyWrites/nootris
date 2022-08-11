@@ -1,0 +1,15 @@
+.discount__title {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 57px;
+  letter-spacing: 0em;
+  text-align: center;
+  width: 60vw;
+  margin: 0;
+}
+
+@media screen and (min-width: 820px) {
+  .discount__title {
+    font-size: 48px;
+  }
+}

@@ -1,0 +1,12 @@
+.presentation__description {
+  width: 65vw;
+  padding: 20px 10px;
+  position: relative;
+  z-index: 100;
+}
+
+@media screen and (min-width: 870px) {
+  .presentation__description {
+    padding: 100px 64px 95px;
+  }
+}

@@ -1,0 +1,37 @@
+.presentation__title {
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 68px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0;
+  z-index: 100;
+}
+
+@media screen and (min-width: 660px) {
+  .presentation__title {
+    font-size: 74px;
+    margin: 35px 0 0;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .presentation__title {
+    font-size: 82px;
+    line-height: 92px;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 1160px) {
+  .presentation__title {
+    font-size: 116px;
+    line-height: 152px;
+  }
+}
+
+@media screen and (min-width: 1350px) {
+  .presentation__title {
+    font-size: 144px;
+  }
+}

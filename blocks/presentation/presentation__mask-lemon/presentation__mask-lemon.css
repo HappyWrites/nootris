@@ -1,0 +1,26 @@
+.presentation__mask-lemon {
+  z-index: 3;
+  width: 373px;
+  height: 323px;
+  position: absolute;
+  bottom: -65px;
+  right: 131px;
+}
+
+
+@media screen and (min-width: 900px) {
+  .presentation__mask-lemon {
+    width: 533px;
+    height: 462px;
+    bottom: 0;
+    top: 438px;
+    right: 179px;
+  }
+}
+
+
+@media screen and (min-width: 1410px) {
+  .presentation__mask-lemon {
+    right: 243px;
+  }
+}
